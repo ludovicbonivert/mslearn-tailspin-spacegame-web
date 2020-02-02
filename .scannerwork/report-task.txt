@@ -1,0 +1,7 @@
+organization=ludovicbonivert
+projectKey=ludovicbonivert_mslearn-tailspin-spacegame-web
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.4292
+dashboardUrl=https://sonarcloud.io/dashboard?id=ludovicbonivert_mslearn-tailspin-spacegame-web
+ceTaskId=AW_8FMQbpEmUwKcVXD8k
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW_8FMQbpEmUwKcVXD8k
